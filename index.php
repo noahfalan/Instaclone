@@ -6,7 +6,7 @@
   </head>
   <link rel="stylesheet" href="css/index.css">
   <body>
-    <img src="title.png" alt="TheWall">
+    <img src="title.png" alt="Instaclone">
     <link href="https://fonts.googleapis.com/css?family=Lato:100,400" rel="stylesheet">
 <nav>
   <ul>
